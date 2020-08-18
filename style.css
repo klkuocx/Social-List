@@ -1,0 +1,7 @@
+#switcher {
+  cursor: pointer;
+}
+
+.fa-users:hover, .fa-mars:hover, .fa-venus:hover {
+  color: #ff7700;
+}
